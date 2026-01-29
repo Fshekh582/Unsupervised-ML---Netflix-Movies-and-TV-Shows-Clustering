@@ -1,6 +1,11 @@
 # Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering
 Unsupervised Machine Learning-Netflix Recommender recommends Netflix movies and TV shows based on a user's favorite movie or TV show. It uses a a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions
-Image Courtesy: https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg
+### 🎬 Netflix ML Project
+
+![Netflix Banner](https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg)
+
+*Image courtesy: flashfly.net*
+
 # **Project Summary -**
 The project aims to **analyze and cluster a Netflix dataset**, consisting of attributes like: title, genre, release year, etc. Initial steps involve preprocessing, handling missing values, and transforming categorical variables. **Exploratory Data Analysis (EDA)** techniques will provide insights into variable distributions and relationships. Subsequently, **clustering algorithms** like **k-means** will group similar shows and movies, determining optimal clusters. The results will be evaluated to understand common characteristics within each group, aiding Netflix in content categorization and recommendation systems. Findings will be summarized concisely, using visualizations to communicate effectively.
 Recommendations may suggest improvements for user experience and content offerings. Ultimately, the project will enhance understanding of Netflix's content landscape, facilitating informed decision-making for the company.
